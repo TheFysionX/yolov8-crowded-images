@@ -1,0 +1,5 @@
+Just point to the directory, and you'll be fine. Yolo will search for all the correct folders and will automatically begin. 
+
+This should be your base set—the one you start with. It includes less complicated images to get your model started with understanding long-range detections.
+
+Your model should plateau after about 3-5 training sessions (at epoch 34).

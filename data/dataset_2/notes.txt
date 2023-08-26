@@ -1,0 +1,3 @@
+This should be your second dataset. It introduces more complex images that will take longer to process and introduces your model to the idea of
+
+'groups' of certain images. For now, we introduce both, but only eloborate on the group of people. The cars are in the next dataset!
