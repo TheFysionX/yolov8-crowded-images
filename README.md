@@ -23,7 +23,7 @@ Group_of_...: As a person, you should be able to tell that it is a large group o
 
 There are a lot of things to note when using these images in your training. First and foremost, no credit or attribution is required in any way, but if you want to, it could help others find the resource. Secondly, if you intend to video-analyze simple images, this is not a good idea. I've had to train my model 24 hours a day for weeks on lots of different images to make sure it doesn't think the sides of buildings are cars—all that to say, unless you will be processing busy images with lots of objects to detect. This is really only for a specific group of people with a specific task. If you do need them, extensive monitoring and training are required over a decent period of time to make sure that it completely learns. It is very difficult to get consistent reads on blurry objects or objects far away from the shot.
 
-#Introduction & Guide
+#Guide
 If you need a guide on how to use these to train your model, I will explain below. Otherwise, you are free to use and contribute! Make sure that if you contribute, you contribute images that align with those that have already been added.
 
 To use these, I am going to assume that you have a working YoloV8 model in Python. If you don't, it's super, super simple. Just read their GitHub: https://github.com/ultralytics/ultralytics
